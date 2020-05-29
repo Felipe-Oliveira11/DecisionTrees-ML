@@ -1,6 +1,6 @@
 # DecisionTrees-ML
-<hr> 
 Studies on tree-based learning models. 
+
 <br>
 topics studied: 
 
