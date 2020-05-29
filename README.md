@@ -9,4 +9,6 @@ topics studied:
 * Standard deviation reduction 
 * Feature importance
 * Tree modeling 
+
+https://sctr7.files.wordpress.com/2012/06/decision-tree-diagram3.jpg
                
