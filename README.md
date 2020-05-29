@@ -8,4 +8,5 @@ topics studied:
 * Entropy and Information Gain 
 * Standard deviation reduction 
 * Feature importance
+* Tree modeling 
                
